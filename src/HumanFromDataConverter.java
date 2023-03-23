@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class HumanFromDataConverter {
-    public static Human[] convert (String[] data) {
+    public static Human[] convert(String[] data) {
         int id;
         String name;
         int waterCount;
